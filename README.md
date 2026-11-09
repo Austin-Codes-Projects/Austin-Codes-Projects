@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="banner.png" alt="banner" width="100%"/>
-
 # Hi 👋, I'm AUSTIN SUNESH
 
 **CS & Applied Statistics @ University of Toronto**
