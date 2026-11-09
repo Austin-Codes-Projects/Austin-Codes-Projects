@@ -74,14 +74,7 @@ If you're building something interesting, let's connect.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Codes-Projects&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Sunesh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Austin-Codes-Projects&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Austin-Codes-Projects&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages"/>
 </p>
-
 ---
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Codes-Projects&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-</p>
