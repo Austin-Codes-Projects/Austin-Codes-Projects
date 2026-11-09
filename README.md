@@ -17,17 +17,17 @@
 
 ## 🚀 About Me
 
-<img align="right" src="assets/me.png" alt="me" width="260"/>
+<img align="left" src="assets/me_loading.svg" alt="me" width="300"/>
 
-I am a **Computer Science and Applied Statistics** student at the **University of Toronto**.
+I am a <b>Computer Science and Applied Statistics</b> student at the <b>University of Toronto</b>.
 
 I build things because I genuinely want to learn the fundamentals of how they work.
 
-I am drawn to solving problems with real depth, such as **low-level systems**, **mathematical ML**, and **robotics**.
+I am drawn to solving problems with real depth, such as <b>low-level systems</b>, <b>mathematical ML</b>, and <b>robotics</b>.
 
 I am eager to learn new skills, take feedback seriously, and am willing to put in the hard work needed to grow and succeed.
 
-<br clear="right"/>
+<br clear="left"/>
 
 ---
 
