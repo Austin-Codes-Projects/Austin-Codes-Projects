@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="banner" width="700"/>
+<img src="banner.png" alt="banner" width="700"/>
 
 # Hi 👋, I'm AUSTIN SUNESH
 
