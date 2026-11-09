@@ -54,12 +54,15 @@ If you're building something interesting, let's connect.
 
 ---
 
-## 💻 Tech Stack
+##v💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,java,pytorch,tensorflow,numpy,pandas,r,linux,git,github,vscode&perline=7" />
-</p>
+Languages
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,swift,cs,r,sqlite&perline=9" /> </p>
+
+Low-Level & Architecture
+
+<p align="center"> <img src="https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white"/> <img src="https://img.shields.io/badge/MIPS_Assembly-00758F?style=for-the-badge&logoColor=white"/> </p>
 ---
 
 ## 📊 GitHub Stats
