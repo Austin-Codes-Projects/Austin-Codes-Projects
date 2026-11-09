@@ -49,9 +49,9 @@ If you're building something interesting, let's connect.
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:you@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/Austin-Codes-Projects"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/austinsunesh"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:austinsunesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
@@ -70,12 +70,12 @@ Low-Level & Architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Austin-Codes-Projects&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Codes-Projects&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Codes-Projects&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
 ---
@@ -83,5 +83,5 @@ Low-Level & Architecture
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Codes-Projects&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
