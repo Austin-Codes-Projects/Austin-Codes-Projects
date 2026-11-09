@@ -56,26 +56,32 @@ If you're building something interesting, let's connect.
 
 ---
 
-##v💻 Tech Stack
+## 💻 Tech Stack
 
-Languages
+**Languages**
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,swift,cs,r,sqlite&perline=9" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,swift,cs,r,sqlite&perline=9" />
+</p>
 
-Low-Level & Architecture
+**Low-Level & Architecture**
 
-<p align="center"> <img src="https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white"/> <img src="https://img.shields.io/badge/MIPS_Assembly-00758F?style=for-the-badge&logoColor=white"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MIPS_Assembly-00758F?style=for-the-badge&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Austin-Codes-Projects&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Austin-Sunesh&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Codes-Projects&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Codes-Projects&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Sunesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Sunesh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
 ---
@@ -83,5 +89,5 @@ Low-Level & Architecture
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Codes-Projects&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Sunesh&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
