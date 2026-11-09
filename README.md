@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="banner.png" alt="banner" width="700"/>
+<img src="assets/banner.png" alt="banner" width="100%"/>
 
 # Hi 👋, I'm AUSTIN SUNESH
 
@@ -19,7 +19,7 @@
 
 <img align="left" src="me_loading.svg" alt="me" width="300"/>
 
-
+<br/><br/><br/>
 
 I am a <b>Computer Science and Applied Statistics</b> student at the <b>University of Toronto</b>.
 
@@ -76,11 +76,11 @@ If you're building something interesting, let's connect.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Austin-Sunesh&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Austin-Codes-Projects&theme=dark&hide_border=true&background=0D1117" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Sunesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Austin-Codes-Projects&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Sunesh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
@@ -89,5 +89,5 @@ If you're building something interesting, let's connect.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Sunesh&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Austin-Codes-Projects&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
