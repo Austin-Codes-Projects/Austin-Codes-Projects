@@ -19,6 +19,8 @@
 
 <img align="left" src="me_loading.svg" alt="me" width="300"/>
 
+
+
 I am a <b>Computer Science and Applied Statistics</b> student at the <b>University of Toronto</b>.
 
 I build things because I genuinely want to learn the fundamentals of how they work.
