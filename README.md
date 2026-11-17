@@ -4,7 +4,7 @@
 # Hi 👋, I'm AUSTIN SUNESH
 
 **CS & Applied Statistics @ University of Toronto**
-`Low-level systems · Machine Learning · Artifactual Intelligence · Robotics`
+`Low-level systems · Machine Learning · Artificial Intelligence · Robotics`
 <sub>Learning how things work from the ground up, then building them.</sub>
 
 </div>
